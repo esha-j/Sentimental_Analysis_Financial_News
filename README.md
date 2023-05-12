@@ -8,4 +8,4 @@ Using text analysis, biometrics, natural language processing (NLP), and computat
 
 ### What is this code about?
 
-To practically understand the concept of sentimental analysis; using an existing dataset(Financial), we train the dataset inorder to generate an output that depicts whether a given news has a positive impact or a negative impact.
+To practically understand the concept of sentimental analysis; using an existing dataset (Financial), we train the dataset inorder to generate an output that depicts whether a given news has a positive impact or a negative impact.
