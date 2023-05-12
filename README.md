@@ -6,3 +6,6 @@
 Using text analysis, biometrics, natural language processing (NLP), and computational linguistics, sentiment analysis is a sort of market study that identifies the emotional state of the inputted data.
 
 
+### What is this code about?
+
+To practically understand the concept of sentimental analysis; using an existing dataset(Financial), we train the dataset inorder to generate an output that depicts whether a given news has a positive impact or a negative impact.
