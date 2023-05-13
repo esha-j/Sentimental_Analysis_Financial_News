@@ -22,3 +22,8 @@ pip install tensorflow
 pip install matplotlib 
 ```
 
+### Dataset Used
+
+Kaggle Dataset: [Financial News](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
+
+
